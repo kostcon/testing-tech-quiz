@@ -137,5 +137,3 @@ npx cypress open
 ## Conclusion
 By adding Cypress tests, this project ensures that the Tech Quiz app runs reliably under various conditions. The test suite includes both **unit tests** for the Quiz component and **end-to-end tests** for the full quiz flow.
 
-🚀 Happy testing!
-
